@@ -1,1 +1,1 @@
-print ("the name is ayush0 ");
+print ("the name is ayush0 "
